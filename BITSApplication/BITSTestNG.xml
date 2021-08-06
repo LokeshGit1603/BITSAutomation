@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BITS suite" verbose="2">
+
+	<test name="Login Authentication Test Cases">
+		<classes>
+			<class name="testCases.Login">
+			</class>
+		</classes>
+	</test>
+	
+	//////////////////////// Admin Role /////////////////////////////////////
+
+	<!-- <test name="Manage Faculty List Test Cases">
+	<classes>
+		<class name="testCases.ManageFaculty_List">
+		</class>
+	</classes>
+    </test>
+
+	<test name="Manage Faculty Detail Test Cases">
+		<classes>
+			<class name="testCases.ManageFaculty_Detail">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Student Course Test Cases">
+		<classes>
+			<class name="testCases.Student_Course_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Student Data Test Cases">
+		<classes>
+			<class name="testCases.Student_Data_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Suggest Station List Test Cases">
+		<classes>
+			<class name="testCases.Suggest_Station_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Suggest Station Detail Test Cases">
+		<classes>
+			<class name="testCases.Suggest_Station_Detail">
+			</class>
+		</classes>
+	</test> -->
+	
+	//////////////////////// Planning Role /////////////////////////////////////
+	
+	<!-- <test name="Semester Allocation List Test Cases">
+		<classes>
+			<class name="testCases.Semester_Allotment_List">
+			</class>
+		</classes>
+	</test>
+	
+	 
+	<test name="Problem Bank List Test Cases">
+		<classes>
+			<class name="testCases.ProblemBank_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Problem Detail Test Cases">
+		<classes>
+			<class name="testCases.AddProblem_Detail">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Project List Test Cases">
+		<classes>
+			<class name="testCases.Project_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Planning Role Suggest Station List Test Cases">
+		<classes>
+			<class name="testCases.PlanSuggest_Station_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Planning Role Suggest Station Detail Test Cases">
+		<classes>
+			<class name="testCases.PlanSuggest_Station_Detail">
+			</class>
+		</classes>
+	</test> -->
+	
+	//////////////////////// Allotment Role /////////////////////////////////////
+	
+	<!-- <test name="Allotment Role Suggest Station List Test Cases">
+		<classes>
+			<class name="testCases.AllotSuggest_Station_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Allotment Role Suggest Station Detail Test Cases">
+		<classes>
+			<class name="testCases.AllotSuggest_Station_Detail">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Allotment Role All Allotment Student List Test Cases">
+		<classes>
+			<class name="testCases.AllStudent_Allot_List">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Allotment Role Student Semester Allotment List Test Cases">
+		<classes>
+			<class name="testCases.StudentSem_Allot_List">
+			</class>
+		</classes>
+	</test>
+ -->
+ 
+   //////////////////////// Student Role /////////////////////////////////////
+   
+   <test name="Student Role Profile Detail Test Cases">
+		<classes>
+			<class name="testCases.Student_Profile_Detail">
+			</class>
+		</classes>
+	</test>
+   
+   <test name="Student Role Suggest Station List Test Cases">
+		<classes>
+			<class name="testCases.StudentSuggest_Station_List">
+			</class>
+		</classes>
+	</test>
+	
+	 <test name="Student Role Suggest Station Detail Test Cases">
+		<classes>
+			<class name="testCases.StudentSuggest_Station_Detail">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Student Role Semester Allotment List Test Cases">
+		<classes>
+			<class name="testCases.StudentRoleSem_Allot_List">
+			</class>
+		</classes>
+	</test>
+	
+
+</suite>

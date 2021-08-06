@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BITS suite]" verbose="2">
+  <test thread-count="5" name="Student Role Profile Detail Test Cases(failed)" verbose="2">
+    <classes>
+      <class name="testCases.Student_Profile_Detail">
+        <methods>
+          <include name="tearDown"/>
+          <include name="AgainAcademic"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCases.Student_Profile_Detail -->
+    </classes>
+  </test> <!-- Student Role Profile Detail Test Cases(failed) -->
+</suite> <!-- Failed suite [BITS suite] -->
